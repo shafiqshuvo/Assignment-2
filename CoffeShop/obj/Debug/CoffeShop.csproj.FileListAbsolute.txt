@@ -1,0 +1,10 @@
+D:\AAP.NET\7th batch\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe.config
+D:\AAP.NET\7th batch\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe
+D:\AAP.NET\7th batch\CoffeShop\CoffeShop\bin\Debug\CoffeShop.pdb
+D:\AAP.NET\7th batch\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csprojAssemblyReference.cache
+D:\AAP.NET\7th batch\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Form1.resources
+D:\AAP.NET\7th batch\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+D:\AAP.NET\7th batch\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.cache
+D:\AAP.NET\7th batch\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csproj.CoreCompileInputs.cache
+D:\AAP.NET\7th batch\CoffeShop\CoffeShop\obj\Debug\CoffeShop.exe
+D:\AAP.NET\7th batch\CoffeShop\CoffeShop\obj\Debug\CoffeShop.pdb
